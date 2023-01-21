@@ -35,6 +35,26 @@
     </p>
   </samp>
 </div>
-</details>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgev-97)](https://github.com/anuraghazra/github-readme-stats)
+</details>  
+  <details>
+  <summary> Github activity</summary>
 <div>
+  <samp>
+   <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=georgev-97&count_private=true&theme?transparent">
+    </p>
+  </samp>
+</div>
+</details> 
+    <details>
+  <summary> Most used languages </summary>
+<div>
+  <samp>
+   <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgev-97&langs_count=12&theme?transparent">
+    </p>
+  </samp>
+</div>
+</details> 
+<div>
+
